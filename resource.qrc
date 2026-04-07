@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/send.png</file>
+        <file>icons/app.ico</file>
+        <file>icons/send_gray.png</file>
+        <file>icons/ball_green.ico</file>
+        <file>icons/ball_gray.ico</file>
+    </qresource>
+</RCC>
