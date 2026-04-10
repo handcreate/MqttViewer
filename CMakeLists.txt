@@ -41,10 +41,13 @@ qt_add_executable(MqttViewer
     resource.qrc
     chatinput.h
     chatinput.cpp
-    messagelist.h messagelist.cpp
-    messagecenter.h messagecenter.cpp
-    popuppanel.h popuppanel.cpp
-    README.md
+    messagelist.h
+    messagelist.cpp
+    messagecenter.h
+    messagecenter.cpp
+    popuppanel.h
+    popuppanel.cpp
+    app.rc
 )
 
 target_link_libraries(MqttViewer
